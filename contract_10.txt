@@ -1,0 +1,39 @@
+Contract #10
+
+This Agreement ("Agreement") is made between "Company" and "User" on the Effective Date.
+
+Clause 1 – General
+Delivery of products will be subject to availability and lead times announced in writing.
+
+Clause 2 – General
+This Agreement shall be governed by the laws of California, USA.
+
+Clause 3 – General
+The User accepts full responsibility for any taxes, fines or penalties arising from use of the Services.
+
+Clause 4 – Arbitration
+All disputes shall be settled by binding arbitration in a jurisdiction chosen solely by the Company.
+
+Clause 5 – Liability
+Any limitation of liability includes liability for negligence, gross negligence, and any statutory liabilities unless prohibited by law.
+
+Clause 6 – General
+The User expressly waives any right to seek injunctive or equitable relief against the Company.
+
+Clause 7 – General
+Each Party shall maintain proper documentation for audit purposes.
+
+Clause 8 – General
+The Company shall not be liable for any loss, damage, or indirect consequences arising from service use, including consequential damages.
+
+Clause 9 – General
+Neither Party will assign this Agreement without prior written consent of the other Party.
+
+Clause 10 – General
+Either Party may propose amendments in writing with mutual consent.
+
+Both Parties hereby acknowledge and accept the terms set forth above.
+
+Signed:
+Company: ____________________    Date: __________
+User: _______________________    Date: __________

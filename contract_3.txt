@@ -1,0 +1,39 @@
+Contract #3
+
+This Agreement ("Agreement") is made between "Company" and "User" on the Effective Date.
+
+Clause 1 – General
+All payment terms shall be processed within thirty (30) business days.
+
+Clause 2 – General
+The Parties shall use commercially reasonable efforts to perform their obligations.
+
+Clause 3 – General
+The Customer waives any right to a jury trial and agrees that all claims will be decided in the Company's chosen venue.
+
+Clause 4 – General
+The Company reserves the right to modify the terms without explicit user consent and such modifications will be effective immediately upon posting.
+
+Clause 5 – Arbitration
+All disputes shall be settled by binding arbitration in a jurisdiction chosen solely by the Company.
+
+Clause 6 – General
+This Agreement shall be governed by the laws of California, USA.
+
+Clause 7 – General
+The Agreement commences on the Effective Date stated above.
+
+Clause 8 – General
+The Company shall not be liable for any loss, damage, or indirect consequences arising from service use, including consequential damages.
+
+Clause 9 – General
+Neither Party will assign this Agreement without prior written consent of the other Party.
+
+Clause 10 – General
+The Company may share Customer data with third parties for any purpose it deems necessary without prior notice.
+
+Both Parties hereby acknowledge and accept the terms set forth above.
+
+Signed:
+Company: ____________________    Date: __________
+User: _______________________    Date: __________

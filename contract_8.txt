@@ -1,0 +1,39 @@
+Contract #8
+
+This Agreement ("Agreement") is made between "Company" and "User" on the Effective Date.
+
+Clause 1 – General
+This Agreement shall be governed by the laws of California, USA.
+
+Clause 2 – General
+All payment terms shall be processed within thirty (30) business days.
+
+Clause 3 – General
+The User accepts full responsibility for any taxes, fines or penalties arising from use of the Services.
+
+Clause 4 – General
+The Company reserves the right to modify the terms without explicit user consent and such modifications will be effective immediately upon posting.
+
+Clause 5 – General
+The Customer waives any right to a jury trial and agrees that all claims will be decided in the Company's chosen venue.
+
+Clause 6 – General
+Each Party shall maintain proper documentation for audit purposes.
+
+Clause 7 – General
+The Parties agree to comply with applicable data protection regulations.
+
+Clause 8 – Arbitration
+All disputes shall be settled by binding arbitration in a jurisdiction chosen solely by the Company.
+
+Clause 9 – Indemnity
+The User agrees to indemnify and hold harmless the Company from any legal claims, losses, or damages, including attorneys' fees.
+
+Clause 10 – General
+The Agreement commences on the Effective Date stated above.
+
+Both Parties hereby acknowledge and accept the terms set forth above.
+
+Signed:
+Company: ____________________    Date: __________
+User: _______________________    Date: __________

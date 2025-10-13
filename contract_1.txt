@@ -1,0 +1,39 @@
+Contract #1
+
+This Agreement ("Agreement") is made between "Company" and "User" on the Effective Date.
+
+Clause 1 – General
+The Parties agree to communicate electronically via email for all formal notices.
+
+Clause 2 – General
+This Agreement shall be governed by the laws of California, USA.
+
+Clause 3 – General
+The User accepts full responsibility for any taxes, fines or penalties arising from use of the Services.
+
+Clause 4 – General
+Either Party may propose amendments in writing with mutual consent.
+
+Clause 5 – General
+The Company reserves the right to modify the terms without explicit user consent and such modifications will be effective immediately upon posting.
+
+Clause 6 – Termination
+The Company may terminate this Agreement at any time without prior notice and without cause.
+
+Clause 7 – General
+Each Party shall maintain proper documentation for audit purposes.
+
+Clause 8 – General
+The Company shall not be liable for any loss, damage, or indirect consequences arising from service use, including consequential damages.
+
+Clause 9 – General
+The Parties shall use commercially reasonable efforts to perform their obligations.
+
+Clause 10 – General
+The User expressly waives any right to seek injunctive or equitable relief against the Company.
+
+Both Parties hereby acknowledge and accept the terms set forth above.
+
+Signed:
+Company: ____________________    Date: __________
+User: _______________________    Date: __________

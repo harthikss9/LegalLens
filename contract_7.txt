@@ -1,0 +1,39 @@
+Contract #7
+
+This Agreement ("Agreement") is made between "Company" and "User" on the Effective Date.
+
+Clause 1 – General
+The Company reserves the right to modify the terms without explicit user consent and such modifications will be effective immediately upon posting.
+
+Clause 2 – Indemnity
+The User agrees to indemnify and hold harmless the Company from any legal claims, losses, or damages, including attorneys' fees.
+
+Clause 3 – General
+All payment terms shall be processed within thirty (30) business days.
+
+Clause 4 – General
+The Customer waives any right to a jury trial and agrees that all claims will be decided in the Company's chosen venue.
+
+Clause 5 – Liability
+Any limitation of liability includes liability for negligence, gross negligence, and any statutory liabilities unless prohibited by law.
+
+Clause 6 – General
+This Agreement shall be governed by the laws of California, USA.
+
+Clause 7 – General
+The Parties agree to communicate electronically via email for all formal notices.
+
+Clause 8 – General
+Each Party shall maintain proper documentation for audit purposes.
+
+Clause 9 – General
+The Company may share Customer data with third parties for any purpose it deems necessary without prior notice.
+
+Clause 10 – General
+Neither Party will assign this Agreement without prior written consent of the other Party.
+
+Both Parties hereby acknowledge and accept the terms set forth above.
+
+Signed:
+Company: ____________________    Date: __________
+User: _______________________    Date: __________

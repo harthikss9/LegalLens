@@ -1,0 +1,39 @@
+Contract #6
+
+This Agreement ("Agreement") is made between "Company" and "User" on the Effective Date.
+
+Clause 1 – Termination
+The Company may terminate this Agreement at any time without prior notice and without cause.
+
+Clause 2 – General
+The Parties agree to comply with applicable data protection regulations.
+
+Clause 3 – General
+The User expressly waives any right to seek injunctive or equitable relief against the Company.
+
+Clause 4 – General
+Each Party shall maintain proper documentation for audit purposes.
+
+Clause 5 – Arbitration
+All disputes shall be settled by binding arbitration in a jurisdiction chosen solely by the Company.
+
+Clause 6 – General
+The Company reserves the right to modify the terms without explicit user consent and such modifications will be effective immediately upon posting.
+
+Clause 7 – General
+Neither Party will assign this Agreement without prior written consent of the other Party.
+
+Clause 8 – General
+The Customer waives any right to a jury trial and agrees that all claims will be decided in the Company's chosen venue.
+
+Clause 9 – General
+All payment terms shall be processed within thirty (30) business days.
+
+Clause 10 – General
+Either Party may propose amendments in writing with mutual consent.
+
+Both Parties hereby acknowledge and accept the terms set forth above.
+
+Signed:
+Company: ____________________    Date: __________
+User: _______________________    Date: __________

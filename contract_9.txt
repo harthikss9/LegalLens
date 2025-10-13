@@ -1,0 +1,39 @@
+Contract #9
+
+This Agreement ("Agreement") is made between "Company" and "User" on the Effective Date.
+
+Clause 1 – General
+The Parties agree to communicate electronically via email for all formal notices.
+
+Clause 2 – General
+Each Party shall maintain proper documentation for audit purposes.
+
+Clause 3 – General
+The Parties shall use commercially reasonable efforts to perform their obligations.
+
+Clause 4 – General
+The User expressly waives any right to seek injunctive or equitable relief against the Company.
+
+Clause 5 – Indemnity
+The User agrees to indemnify and hold harmless the Company from any legal claims, losses, or damages, including attorneys' fees.
+
+Clause 6 – Liability
+Any limitation of liability includes liability for negligence, gross negligence, and any statutory liabilities unless prohibited by law.
+
+Clause 7 – General
+The User accepts full responsibility for any taxes, fines or penalties arising from use of the Services.
+
+Clause 8 – General
+Neither Party will assign this Agreement without prior written consent of the other Party.
+
+Clause 9 – General
+All payment terms shall be processed within thirty (30) business days.
+
+Clause 10 – General
+The Company reserves the right to modify the terms without explicit user consent and such modifications will be effective immediately upon posting.
+
+Both Parties hereby acknowledge and accept the terms set forth above.
+
+Signed:
+Company: ____________________    Date: __________
+User: _______________________    Date: __________
